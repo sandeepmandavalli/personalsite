@@ -1,0 +1,59 @@
+
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color: #ccf6c8;
+}
+h1{
+  font-size: 50px;
+  margin-top: 0;
+}
+
+
+
+.first-container{
+  background-color: #e97171;
+}
+
+.pro{
+  text-decoration: underline;
+}
+
+hr{
+  border-color: #206a5d;
+  border-style: none;
+  border-top-style: dotted;
+  width:6%;
+  height:0px;
+  border-width: 10px;
+}
+
+.cloud-top{
+  position: relative;
+  left:200px;
+}
+.cloud-bottom{
+  position: relative;
+  right:200px;
+}
+
+.cloud{
+  position: relative;
+  bottom: 80px;
+  left:40px;
+}
+
+.cloud1{
+  position: relative;
+  bottom: 80px;
+  right:80px;
+}
+
+
+.middle-container{
+}
+
+.bottom-container{
+}
